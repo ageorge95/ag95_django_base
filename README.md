@@ -1,0 +1,1 @@
+# ag95_django_base
